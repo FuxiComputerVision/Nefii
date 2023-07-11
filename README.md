@@ -1,6 +1,9 @@
 # (CVPR 2023) NeFII: Inverse Rendering for Reflectance Decomposition with Near-Field Indirect Illumination
 
+
 ## [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_NeFII_Inverse_Rendering_for_Reflectance_Decomposition_With_Near-Field_Indirect_Illumination_CVPR_2023_paper.pdf)  | [Project Page](https://woolseyyy.github.io/nefii/) |  [Arxiv](https://arxiv.org/pdf/2303.16617.pdf) | [Data](https://drive.google.com/file/d/19qtLOctvEzvThqiHeAEAxOQlPuCrYiha/view)
+
+<div align=center><img width="800"  src=assets/nefii.png/></div>
 
 ## 1 Preparation
 * Create conda environment
